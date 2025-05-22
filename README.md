@@ -1,2 +1,2 @@
 # ATM
-Automatic Teller Machine on C++
+Automatic Teller Machine
